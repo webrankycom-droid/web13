@@ -1,0 +1,7 @@
+{
+  "name": "CardVCC.com - Instant Virtual Credit Cards",
+  "description": "A premium landing page for a virtual credit card service featuring instant issuance, privacy-focused spending, and subscription management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
